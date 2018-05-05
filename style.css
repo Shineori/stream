@@ -1,0 +1,25 @@
+body{
+	background-image: url(bg.jpg);
+}
+
+h1{
+	font-family: 'Bungee Shade';font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+#twitch-embed{
+	display: block;
+	margin: 0 auto;
+}
+
+#p1{
+	color: #ee82ee;
+	text-align: center;
+	font-family: 'Creepster'; font-size: 22px
+
+}
+
+.twitch-steam{
+	text-align: center;
+}
